@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 changes made on local computer
-=======
 changes from github.com
->>>>>>> c2e53e5225815161490baae7440b39aaac238d0d
