@@ -1,4 +1,8 @@
 changes made on local computer
 changes from github.com
+<<<<<<< HEAD
 added from online
 added these changes from local
+=======
+added these changes from online
+>>>>>>> b2aee36ef8041bc0cd53c827288d88cf5d29dab6
