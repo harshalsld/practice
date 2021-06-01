@@ -1,8 +1,8 @@
 first online changes
 second online changes
-third local changes
+third local changes..
 fourth online changes
-fifth local changes
-sixth local changes
+fifth local changes..
+sixth local changes..
 seventh online changes
-eighth local changes
+eighth local changes..
