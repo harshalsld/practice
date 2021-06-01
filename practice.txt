@@ -2,4 +2,4 @@ changes made on local computer
 changes from github.com
 added from online
 added these changes from local
-added these changes from online
+added these changes from online -- added some more
