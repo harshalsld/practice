@@ -2,5 +2,9 @@ changes made on local computer
 changes from github.com
 added from online
 added these changes from local
+<<<<<<< HEAD
 added these changes from online
 added this line from offline
+=======
+added these changes from online -- added some more
+>>>>>>> 343c491f74f434226ef7a706fa9a753cd649d030
