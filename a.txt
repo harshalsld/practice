@@ -1,2 +1,6 @@
 new file added
+<<<<<<< HEAD
 new line added from local
+=======
+new line added from web
+>>>>>>> fef9e505c3bb88914305977b632524e29f01be5c
