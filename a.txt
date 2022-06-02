@@ -1,10 +1,1 @@
-<<<<<<< HEAD
 remote changes
-=======
-new file added
-<<<<<<< HEAD
-new line added from web
-=======
-new line added from local
->>>>>>> d80c4e8 (one line added from local)
->>>>>>> 8a9e852 (one line added from local)
