@@ -1,2 +1,6 @@
 local changes
+<<<<<<< HEAD
 second line from local
+=======
+second line from online
+>>>>>>> 1311c32ef614f6b3b137c564ce973b290b1e8dd8
